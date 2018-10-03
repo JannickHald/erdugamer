@@ -1,3 +1,11 @@
+## Velkommen til ErDuGamer.dk
+Vi er i øjeblikket igang med at flytte vores servere og derfor ser du denne side...
+
+## Information
+Vi er igang med at flytte vores servere og derfor ser du denne side.
+Vi har ikke et tidspunkt på hvornår vi er færdig med flytningen men forventer at være klar snart igen
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JannickHald/erdugamer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
